@@ -1,0 +1,6 @@
+{
+    "require": {
+        "shopify/shopify-api": "^5.2",
+        "phpclassic/php-shopify": "^1.2"
+    }
+}
