@@ -2,8 +2,8 @@
 require_once('../vendor/autoload.php');
 
 $config = array(
-    'ShopUrl' => 'c1c87c.myshopify.com',
-    'AccessToken' => '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',
+    'ShopUrl' => 'your shop url',
+    'AccessToken' => 'your app token',
 );
 
 PHPShopify\ShopifySDK::config($config);
